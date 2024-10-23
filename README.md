@@ -18,6 +18,8 @@ Searching stock photos with the Pexel API. It has a simple Node.js backend and p
 
 ### To do:
 
+- look into possibly combining the usePhoto and usePhotos hooks
+
 - skeleton loaders / suspense
 
 - style the 0 results found message
