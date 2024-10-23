@@ -6,13 +6,13 @@ Searching stock photos with the Pexel API. It has a simple Node.js backend and p
 
 - client/src/
 
-* components: small reusable components
+    * components: small reusable components
 
-* hooks: image fetching hooks
+    * hooks: image fetching hooks
 
-* pages: page components
+    * pages: page components
 
-* styles: the css file
+    * styles: the css file
 
 - server/server.js: the server
 
