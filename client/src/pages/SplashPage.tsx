@@ -29,7 +29,7 @@ export default function SplashPage() {
       <img src="hero.jpeg" alt="" className="heroImage" />
 
       <div className="flexboxCol paddingB heroText">
-        <h1 className="title">Free Stock Photos from Pexel API</h1>
+        <h1 className="title">Free Stock Photos by Pexels</h1>
 
         <InputAndLoader userInput={userInput} handleUserInput={handleUserInput} handleSearch={handleSearch} />
 
